@@ -11,32 +11,32 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting started",
+        "group": "ACCESS MANAGEMENT & IDENTITY GOVERNANCE",
         "pages": [
           "index",
-          "quickstart",
+          "quickstart"
+        ]
+      },
+      {
+        "group": "USER LIFECYCLE MANAGEMENT",
+        "pages": [
           "development"
         ]
       },
       {
-        "group": "Customization",
+        "group": "AI VENDOR RISK MANAGEMENT",
         "pages": [
-          "essentials/settings",
-          "essentials/navigation"
+          "essentials/settings"
         ]
       },
       {
-        "group": "Writing content",
+        "group": "INTEGRATIONS",
         "pages": [
+          "essentials/navigation",
           "essentials/markdown",
           "essentials/code",
           "essentials/images",
-          "essentials/reusable-snippets"
-        ]
-      },
-      {
-        "group": "AI tools",
-        "pages": [
+          "essentials/reusable-snippets",
           "ai-tools/cursor",
           "ai-tools/claude-code",
           "ai-tools/windsurf"
