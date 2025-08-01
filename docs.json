@@ -11,26 +11,32 @@
   "navigation": {
     "groups": [
       {
-        "group": "ACCESS MANAGEMENT & IDENTITY GOVERNANCE",
+        "group": "Multiplier",
+        "pages": [
+          "index",
+        ]
+      },
+      {
+        "group": "Access Management & Identity Governance",
         "pages": [
           "index",
           "quickstart"
         ]
       },
       {
-        "group": "USER LIFECYCLE MANAGEMENT",
+        "group": "User Lifecycle Management",
         "pages": [
           "development"
         ]
       },
       {
-        "group": "AI VENDOR RISK MANAGEMENT",
+        "group": "AI Vendor Risk Management",
         "pages": [
           "essentials/settings"
         ]
       },
       {
-        "group": "INTEGRATIONS",
+        "group": "Integrations",
         "pages": [
           "essentials/navigation",
           "essentials/markdown",
