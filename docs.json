@@ -8,65 +8,58 @@
     "dark": "#647DED"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://docs.multiplierhq.com",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Changelog",
-          "href": "https://multiplierhq.com/changelog",
-          "icon": "bolt"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://multiplierhq.com/blog",
-          "icon": "newspaper"
-        }
+  "navigation": [
+    {
+      "group": "Getting started",
+      "pages": [
+        "index",
+        "quickstart",
+        "development"
+      ]
+    },
+    {
+      "group": "Customization",
+      "pages": [
+        "essentials/settings",
+        "essentials/navigation"
+      ]
+    },
+    {
+      "group": "Writing content",
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "AI tools",
+      "pages": [
+        "ai-tools/cursor",
+        "ai-tools/claude-code",
+        "ai-tools/windsurf"
       ]
     }
+  ],
+  "global": {
+    "anchors": [
+      {
+        "anchor": "Documentation",
+        "href": "https://docs.multiplierhq.com",
+        "icon": "book-open-cover"
+      },
+      {
+        "anchor": "Changelog",
+        "href": "https://multiplierhq.com/changelog",
+        "icon": "bolt"
+      },
+      {
+        "anchor": "Blog",
+        "href": "https://multiplierhq.com/blog",
+        "icon": "newspaper"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -98,3 +91,4 @@
     }
   }
 }
+
